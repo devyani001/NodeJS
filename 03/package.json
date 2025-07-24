@@ -10,3 +10,13 @@
   "license": "ISC",
   "description": ""
 }
+
+
+// imp commands
+// npm init - create package.json file
+// write query in script in package.json file
+// if "youtube" : "node script.js"
+// then in terminal --> npm run youtube
+// but youtube is not suitable/professional name
+// so we use "start" instead of "youtube"
+// npm start - this will run js file...
